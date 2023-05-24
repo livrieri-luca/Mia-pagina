@@ -1,0 +1,157 @@
+/** h1 {
+    color: red;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+p a,
+figure figcaption p {
+    color: cornflowerblue;
+}
+
+ol li {
+    color: green;
+} 
+*/
+
+
+/*titolo*/
+
+body {
+    background-color: #9FE2BF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
+    margin: 80px;
+}
+
+.titolo-h2 {
+    color: red
+}
+
+h1.titolo-articolo {
+    color: cornflowerblue;
+    
+}
+
+#titolo-pagina.titolo-articolo {
+    font-style: italic;
+    font-size:  5.4Vh;
+     font-size: 4.0rem;
+}
+
+#titolo-pagina {
+    font-weight: bold;
+    font-size: 5.4vw;
+}
+
+p {
+    color: black;
+}
+
+#Immagine {
+    background: radial-gradient(blue,red);
+    background-color: rgb(255, 255, 255);
+    border: 10px black solid;
+    padding: 20px;
+    min-width: 400px;
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    margin: 10px;
+}
+
+.illustrazione .caption-illustrazione {
+    color: cadetblue;
+}
+
+.colori {
+   /* height: 400px;*/
+    width: 400px;
+      margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+      /*background-color: rgb(156, 165, 211);*/
+   /*background-color: hsl(360, 34%, 68%);*/
+   /*  background-color: linear-gradient(45deg, red, 350%, blue);*/
+}
+
+.colori h1 {
+    text-align: center;
+}
+
+articolo-pagina {
+    font-style: italic;
+}
+
+
+/*Introduzione*/
+
+.introduzione___pagina {
+    font-size: 1.2rem;
+}
+
+
+/*Citazionei*/
+
+.citazione_blocco p {
+    color: lime;
+}
+
+.citazione {
+    max-width: 75ch;
+    margin-left: auto;
+    margin-right: auto;
+    /*border: 5px solid black;*/
+    border-width: 2px;
+    /* border-color: red;*/
+   /*  border-style: dotted;*/
+   /*  border-radius: 12px 18px 15% 18px;*/
+}
+
+figure.citazione {
+    border: 8px solid;
+    border-width: 4px;
+    border-color: green;
+    border-style: groove dotted dashed double;
+}
+
+.citazione.citazione_blocco.citazione_paragrafo {
+    font-size: 1.0rem;
+}
+
+#citazione__paragrafo{
+    padding: 24px;
+    /*background-color: whitesmoke;*/
+    background-image: url("palestra.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    border-radius: 8px;
+    width: 60%;
+}
+
+/*Topografia*/
+
+h1 {
+    color: red;
+    font-size: 3rem;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    font-style: italic;
+    color: darkgreen;
+}
+
+.link {
+    color: blue;
+}
